@@ -1,0 +1,6 @@
+{
+    "markdown_directory": "countries",
+    "pickle_directory": "data",
+    "pickle_filename": "ips-by-country.p",
+    "raw_directory": "raw"
+}
