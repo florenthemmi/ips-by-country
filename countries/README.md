@@ -78,6 +78,7 @@
 [Guadeloupe](gp.md)  
 [Guam](gu.md)  
 [Guatemala](gt.md)  
+[Guernsey](gg.md)  
 [Guinea](gn.md)  
 [Guinea-Bissau](gw.md)  
 [Guyana](gy.md)  
