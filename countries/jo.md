@@ -3,11 +3,9 @@
 CIDR               | Range start     | Range end       | Total IPs  | Assign date | Owner
 ------------------ | --------------- | --------------- | ---------- | ----------- | -----
 5.45.128.0/20      | 5.45.128.0      | 5.45.143.255    | 4096       | 2012-05-25  | Umniah Lil-Hawatef Al-Mutanaqelah Co.
-31.222.224.0/19    | 31.222.224.0    | 31.222.255.255  | 8192       | 2011-05-16  | The Blue Zone East / Jordan
 37.17.192.0/20     | 37.17.192.0     | 37.17.207.255   | 4096       | 2011-12-19  | Al mouakhah lil khadamat al logesteih wa al itisalat
 37.110.160.0/19    | 37.110.160.0    | 37.110.191.255  | 8192       | 2012-02-08  | 
 37.123.64.0/19     | 37.123.64.0     | 37.123.95.255   | 8192       | 2012-02-15  | Al mouakhah lil khadamat al logesteih wa al itisalat
-37.140.240.0/20    | 37.140.240.0    | 37.140.255.255  | 4096       | 2012-03-01  | The Blue Zone East / Jordan
 37.202.64.0/18     | 37.202.64.0     | 37.202.127.255  | 16384      | 2012-03-23  | Jordan Data Communications Company LLC
 37.220.112.0/20    | 37.220.112.0    | 37.220.127.255  | 4096       | 2012-04-03  | Batelco Jordan
 46.23.112.0/20     | 46.23.112.0     | 46.23.127.255   | 4096       | 2010-12-08  | Umniah Mobile Company PLC
@@ -32,7 +30,6 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 95.140.160.0/20    | 95.140.160.0    | 95.140.175.255  | 4096       | 2009-03-17  | 
 95.141.208.0/20    | 95.141.208.0    | 95.141.223.255  | 4096       | 2009-06-30  | Al mouakhah lil khadamat al logesteih wa al itisalat
 95.172.192.0/19    | 95.172.192.0    | 95.172.223.255  | 8192       | 2009-03-02  | Umniah Mobile Company PLC
-109.107.128.0/19   | 109.107.128.0   | 109.107.159.255 | 8192       | 2009-10-19  | The Blue Zone East / Jordan
 109.107.224.0/19   | 109.107.224.0   | 109.107.255.255 | 8192       | 2009-10-22  | Umniah Mobile Company PLC
 109.237.192.0/20   | 109.237.192.0   | 109.237.207.255 | 4096       | 2010-01-18  | VTEL HOLDINGS LIMITED/JORDAN CO.
 149.200.128.0/17   | 149.200.128.0   | 149.200.255.255 | 32768      | 2011-08-15  | Jordan Data Communications Company LLC
@@ -45,7 +42,6 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 188.247.64.0/19    | 188.247.64.0    | 188.247.95.255  | 8192       | 2009-08-25  | Linkdotnet-Jordan
 193.188.64.0/19    | 193.188.64.0    | 193.188.95.255  | 8192       | 1995-12-29  | National Information Technology Center
 194.165.128.0/19   | 194.165.128.0   | 194.165.159.255 | 8192       | 1996-02-01  | Jordan Data Communications Company LLC
-195.158.192.0/19   | 195.158.192.0   | 195.158.223.255 | 8192       | 1997-04-28  | Middle East Communications Corporation
 212.34.0.0/19      | 212.34.0.0      | 212.34.31.255   | 8192       | 1998-03-04  | Jordan Telecommunications Company
 212.35.64.0/19     | 212.35.64.0     | 212.35.95.255   | 8192       | 1998-07-27  | FIRSTNET (First Data Communication Group)
 212.38.128.0/19    | 212.38.128.0    | 212.38.159.255  | 8192       | 1998-05-11  | 

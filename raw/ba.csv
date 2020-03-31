@@ -13,7 +13,7 @@
 46.239.0.0,46.239.63.255,16384,09/02/11,"Telekomunikacije Republike Srpske" akcionarsko drustvo Banja Luka
 62.68.96.0,62.68.127.255,8192,02/07/08,ELTA KABEL d.o.o.
 62.101.128.0,62.101.143.255,4096,23/04/10,SD Sistemi LTD.
-62.101.144.0,62.101.159.255,4096,23/04/10,DASTO semtel d.o.o.
+62.101.144.0,62.101.159.255,4096,23/04/10,SD Sistemi LTD.
 62.113.0.0,62.113.31.255,8192,01/10/08,HT d.o.o. Mostar
 77.77.192.0,77.77.255.255,16384,27/02/07,Telemach d.o.o. Sarajevo
 77.78.192.0,77.78.255.255,16384,09/03/07,Telemach d.o.o. Sarajevo
@@ -21,13 +21,12 @@
 77.238.192.0,77.238.223.255,8192,16/02/07,Kablovska Televizija HS d.o.o Sarajevo
 77.239.0.0,77.239.31.255,8192,22/02/07,Telemach d.o.o. Sarajevo
 77.239.64.0,77.239.95.255,8192,07/03/07,Telrad doo
-78.28.128.0,78.28.191.255,16384,19/09/07,SARNET
+78.28.128.0,78.28.191.255,16384,19/09/07,Ministry for Scientific and Technological Development, Higher Education and Information Society of the Republic of Srpska
 79.142.0.0,79.142.15.255,4096,29/10/07,Logosoft , information engineering and Internet providing
 79.143.160.0,79.143.175.255,4096,26/11/07,ELTA KABEL d.o.o.
 80.65.64.0,80.65.79.255,4096,14/05/01,BH Telecom d.d. Sarajevo
 80.65.80.0,80.65.95.255,4096,23/05/03,BH Telecom d.d. Sarajevo
 80.65.160.0,80.65.175.255,4096,15/05/01,europroNET Bosnia d.o.o.
-80.71.144.0,80.71.159.255,4096,13/01/05,Pincom d.o.o.
 80.80.32.0,80.80.47.255,4096,22/09/10,Kablovska Televizija HS d.o.o Sarajevo
 80.87.240.0,80.87.255.255,4096,24/05/05,Lanaco d.o.o. za Informacione Tehnologije Banja Luka
 80.242.112.0,80.242.127.255,4096,07/09/05,Blicnet d.o.o.
@@ -57,7 +56,6 @@
 178.77.0.0,178.77.63.255,16384,15/04/10,Logosoft , information engineering and Internet providing
 178.209.0.0,178.209.31.255,8192,28/04/10,Telemach d.o.o. Sarajevo
 178.236.80.0,178.236.95.255,4096,02/06/10,Telemach d.o.o. Sarajevo
-178.239.16.0,178.239.31.255,4096,29/07/10,Mreza d.o.o.
 188.124.192.0,188.124.223.255,8192,26/06/09,ELTA KABEL d.o.o.
 188.127.96.0,188.127.127.255,8192,29/07/09,Kablovska Televizija HS d.o.o Sarajevo
 188.246.64.0,188.246.95.255,8192,18/08/09,Blicnet d.o.o.

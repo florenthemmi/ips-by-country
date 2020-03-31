@@ -14,6 +14,7 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 31.166.0.0/15      | 31.166.0.0      | 31.167.255.255  | 131072     | 2011-03-01  | Etihad Etisalat
 37.16.32.0/19      | 37.16.32.0      | 37.16.63.255    | 8192       | 2011-12-16  | Bayanat Al-Oula For Network Services
 37.16.128.0/17     | 37.16.128.0     | 37.16.255.255   | 32768      | 2011-12-16  | Bayanat Al-Oula For Network Services
+37.25.0.0/19       | 37.25.0.0       | 37.25.31.255    | 8192       | 2011-12-23  | Saudi Telecom Company JSC
 37.42.0.0/15       | 37.42.0.0       | 37.43.255.255   | 131072     | 2012-01-04  | Etihad Etisalat
 37.56.0.0/16       | 37.56.0.0       | 37.56.255.255   | 65536      | 2012-01-13  | Saudi Telecom Company JSC
 37.76.224.0/19     | 37.76.224.0     | 37.76.255.255   | 8192       | 2012-02-01  | Integrated Telecom Co. Ltd
@@ -28,12 +29,16 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 46.38.64.0/19      | 46.38.64.0      | 46.38.95.255    | 8192       | 2010-11-24  | Integrated Telecom Co. Ltd
 46.44.64.0/18      | 46.44.64.0      | 46.44.127.255   | 16384      | 2010-08-19  | Bayanat Al-Oula For Network Services
 46.52.0.0/17       | 46.52.0.0       | 46.52.127.255   | 32768      | 2010-08-13  | Etihad Etisalat
+46.143.128.0/18    | 46.143.128.0    | 46.143.191.255  | 16384      | 2010-11-25  | Integrated Telecom Co. Ltd
 46.149.0.0/20      | 46.149.0.0      | 46.149.15.255   | 4096       | 2010-12-06  | Saudi Telecom Company JSC
 46.152.0.0/15      | 46.152.0.0      | 46.153.255.255  | 131072     | 2010-10-26  | Etihad Etisalat
 46.184.0.0/17      | 46.184.0.0      | 46.184.127.255  | 32768      | 2010-11-04  | Etihad Atheeb Telecom Company
 46.230.0.0/17      | 46.230.0.0      | 46.230.127.255  | 32768      | 2011-02-04  | Bayanat Al-Oula For Network Services
 46.240.0.0/17      | 46.240.0.0      | 46.240.127.255  | 32768      | 2010-12-16  | Bayanat Al-Oula For Network Services
 46.251.128.0/19    | 46.251.128.0    | 46.251.159.255  | 8192       | 2011-02-04  | Bayanat Al-Oula For Network Services
+50.60.0.0/15       | 50.60.0.0       | 50.61.255.255   | 131072     | 2011-01-25  | Saudi Telecom Company JSC
+50.119.0.0/16      | 50.119.0.0      | 50.119.255.255  | 65536      | 2011-09-02  | Saudi Telecom Company JSC
+51.39.0.0/16       | 51.39.0.0       | 51.39.255.255   | 65536      | 1993-09-01  | 
 51.211.0.0/16      | 51.211.0.0      | 51.211.255.255  | 65536      | 1993-09-01  | Saudi Telecom Company JSC
 51.218.0.0/16      | 51.218.0.0      | 51.218.255.255  | 65536      | 1993-09-01  | Saudi Telecom Company JSC
 51.223.0.0/16      | 51.223.0.0      | 51.223.255.255  | 65536      | 1993-09-01  | Saudi Telecom Company JSC
@@ -43,40 +48,52 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 62.3.32.0/19       | 62.3.32.0       | 62.3.63.255     | 8192       | 2002-01-09  | Alharbi International for Telecom
 62.120.0.0/16      | 62.120.0.0      | 62.120.255.255  | 65536      | 2007-12-28  | Etihad Etisalat
 62.149.64.0/18     | 62.149.64.0     | 62.149.127.255  | 16384      | 2001-09-20  | Saudi Telecom Company JSC
+64.16.192.0/19     | 64.16.192.0     | 64.16.223.255   | 8192       | 2005-09-20  | Saudi Telecom Company JSC
+64.65.64.0/18      | 64.65.64.0      | 64.65.127.255   | 16384      | 2000-03-28  | Saudi Telecom Company JSC
+64.137.192.0/18    | 64.137.192.0    | 64.137.255.255  | 16384      | 2015-04-06  | Saudi Telecom Company JSC
+66.118.128.0/18    | 66.118.128.0    | 66.118.191.255  | 16384      | 2001-06-05  | Saudi Telecom Company JSC
+66.212.96.0/19     | 66.212.96.0     | 66.212.127.255  | 8192       | 2001-12-28  | Saudi Telecom Company JSC
 77.30.0.0/15       | 77.30.0.0       | 77.31.255.255   | 131072     | 2008-01-31  | Saudi Telecom Company JSC
-77.64.0.0/17       | 77.64.0.0       | 77.64.127.255   | 32768      | 2006-01-16  | Arab Company For Internet & Communications Services (AwalNet)LLC
+77.64.0.0/17       | 77.64.0.0       | 77.64.127.255   | 32768      | 2006-01-16  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
+77.90.192.0/18     | 77.90.192.0     | 77.90.255.255   | 16384      | 2007-04-20  | Saudi Telecom Company JSC
 77.221.96.0/19     | 77.221.96.0     | 77.221.127.255  | 8192       | 2007-03-28  | Mohammed Ali Alesayi Group
-77.232.96.0/19     | 77.232.96.0     | 77.232.127.255  | 8192       | 2006-12-13  | International Computer Company
-77.240.80.0/20     | 77.240.80.0     | 77.240.95.255   | 4096       | 2007-01-10  | Dar Al-Mustawred Trading Group
+77.232.96.0/19     | 77.232.96.0     | 77.232.127.255  | 8192       | 2006-12-13  | MTC KSA
+77.236.128.0/19    | 77.236.128.0    | 77.236.159.255  | 8192       | 2007-01-29  | Saudi Telecom Company JSC
+77.240.80.0/20     | 77.240.80.0     | 77.240.95.255   | 4096       | 2007-01-10  | Dar Al-Mustawred Trading Group Limited
 77.240.128.0/20    | 77.240.128.0    | 77.240.143.255  | 4096       | 2007-01-17  | Capital Market Authority
-78.93.0.0/16       | 78.93.0.0       | 78.93.255.255   | 65536      | 2007-07-19  | Arab Company For Internet & Communications Services (AwalNet)LLC
+77.247.32.0/20     | 77.247.32.0     | 77.247.47.255   | 4096       | 2007-05-31  | Saudi Telecom Company JSC
+77.247.48.0/20     | 77.247.48.0     | 77.247.63.255   | 4096       | 2007-11-29  | Saudi Telecom Company JSC
+78.93.0.0/16       | 78.93.0.0       | 78.93.255.255   | 65536      | 2007-07-19  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 78.95.0.0/16       | 78.95.0.0       | 78.95.255.255   | 65536      | 2007-07-30  | Saudi Telecom Company JSC
 78.110.0.0/20      | 78.110.0.0      | 78.110.15.255   | 4096       | 2007-07-31  | SEVEN EYES FOR MARKETING LTD
 78.138.192.0/18    | 78.138.192.0    | 78.138.255.255  | 16384      | 2007-06-13  | GulfNet KSA
 79.172.128.0/18    | 79.172.128.0    | 79.172.191.255  | 16384      | 2007-10-17  | Middle East Internet Company Limited
-80.74.80.0/20      | 80.74.80.0      | 80.74.95.255    | 4096       | 2005-02-11  | Arabcircle Internet Services for Saudi Arabia
 80.240.64.0/20     | 80.240.64.0     | 80.240.79.255   | 4096       | 2001-10-10  | ods.orbitnet
-81.16.208.0/20     | 81.16.208.0     | 81.16.223.255   | 4096       | 2009-02-13  | Sarmad Trading Co. LTD.
 81.21.48.0/20      | 81.21.48.0      | 81.21.63.255    | 4096       | 2006-01-12  | Integrated Networks Co.
+81.22.112.0/20     | 81.22.112.0     | 81.22.127.255   | 4096       | 2006-01-23  | Public Telecommunications Company Limited Liability Company
 82.118.160.0/19    | 82.118.160.0    | 82.118.191.255  | 8192       | 2004-02-25  | Shabakah Net
 82.147.192.0/19    | 82.147.192.0    | 82.147.223.255  | 8192       | 2003-07-08  | GulfNet KSA
 82.167.0.0/16      | 82.167.0.0      | 82.167.255.255  | 65536      | 2003-08-20  | ods.orbitnet
-83.101.128.0/17    | 83.101.128.0    | 83.101.255.255  | 32768      | 2004-02-24  | Jeraisy For Internet Services Co. Ltd
-84.22.224.0/19     | 84.22.224.0     | 84.22.255.255   | 8192       | 2004-10-11  | Arab Company For Internet & Communications Services (AwalNet)LLC
+83.101.128.0/17    | 83.101.128.0    | 83.101.255.255  | 32768      | 2004-02-24  | Jeraisy Electronic services Ltd.
+84.22.224.0/19     | 84.22.224.0     | 84.22.255.255   | 8192       | 2004-10-11  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 84.23.96.0/19      | 84.23.96.0      | 84.23.127.255   | 8192       | 2004-10-18  | Etihad Etisalat
 84.235.0.0/17      | 84.235.0.0      | 84.235.127.255  | 32768      | 2004-06-16  | Saudi Telecom Company JSC
 85.129.128.0/17    | 85.129.128.0    | 85.129.255.255  | 32768      | 2004-11-17  | Middle East Internet Company Limited
 85.194.64.0/18     | 85.194.64.0     | 85.194.127.255  | 16384      | 2004-12-28  | GulfNet KSA
-85.208.0.0/15      | 85.208.0.0      | 85.209.255.255  | 131072     | 2005-02-09  | Arabic Computer System Co.
+85.195.128.0/18    | 85.195.128.0    | 85.195.191.255  | 16384      | 2005-01-12  | Saudi Telecom Company JSC
+85.196.0.0/18      | 85.196.0.0      | 85.196.63.255   | 16384      | 2005-01-13  | Saudi Telecom Company JSC
 85.237.128.0/19    | 85.237.128.0    | 85.237.159.255  | 8192       | 2005-05-25  | Atheeb trading Co. Ltd (Saudi Internet)
 86.51.0.0/16       | 86.51.0.0       | 86.51.255.255   | 65536      | 2005-04-28  | Bayanat Al-Oula For Network Services
-86.60.0.0/17       | 86.60.0.0       | 86.60.127.255   | 32768      | 2005-05-10  | Arab Company For Internet & Communications Services (AwalNet)LLC
+86.60.0.0/17       | 86.60.0.0       | 86.60.127.255   | 32768      | 2005-05-10  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
+87.76.64.0/19      | 87.76.64.0      | 87.76.95.255    | 8192       | 2011-07-04  | 
+87.76.96.0/19      | 87.76.96.0      | 87.76.127.255   | 8192       | 2011-07-04  | 
 87.101.128.0/17    | 87.101.128.0    | 87.101.255.255  | 32768      | 2005-10-03  | Integrated Telecom Co. Ltd
 87.109.0.0/16      | 87.109.0.0      | 87.109.255.255  | 65536      | 2005-09-05  | Saudi Telecom Company JSC
+87.121.176.0/20    | 87.121.176.0    | 87.121.191.255  | 4096       | 2005-07-12  | Public Telecommunications Company Limited Liability Company
 87.230.128.0/17    | 87.230.128.0    | 87.230.255.255  | 32768      | 2006-09-05  | SPSNET
-88.81.0.0/19       | 88.81.0.0       | 88.81.31.255    | 8192       | 2005-12-02  | Arabcircle Internet Services for Saudi Arabia
 88.84.96.0/19      | 88.84.96.0      | 88.84.127.255   | 8192       | 2006-01-18  | SPSNET
 88.85.224.0/19     | 88.85.224.0     | 88.85.255.255   | 8192       | 2006-02-13  | Nour Communication Co.Ltd - Nournet
+88.209.128.0/18    | 88.209.128.0    | 88.209.191.255  | 16384      | 2005-11-11  | Detecon Al Saudia Co. Ltd.
 88.213.0.0/18      | 88.213.0.0      | 88.213.63.255   | 16384      | 2005-12-28  | Middle East Internet Company Limited
 88.213.64.0/18     | 88.213.64.0     | 88.213.127.255  | 16384      | 2006-11-01  | Middle East Internet Company Limited
 89.4.0.0/15        | 89.4.0.0        | 89.5.255.255    | 131072     | 2006-05-23  | Middle East Internet Company Limited
@@ -94,12 +111,15 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 93.98.0.0/16       | 93.98.0.0       | 93.98.255.255   | 65536      | 2008-02-18  | Middle East Internet Company Limited
 93.112.0.0/16      | 93.112.0.0      | 93.112.255.255  | 65536      | 2007-12-21  | Saudi Telecom Company JSC
 93.168.0.0/15      | 93.168.0.0      | 93.169.255.255  | 131072     | 2008-03-19  | Saudi Telecom Company JSC
-93.178.0.0/18      | 93.178.0.0      | 93.178.63.255   | 16384      | 2008-03-31  | International Computer Company
+93.178.0.0/18      | 93.178.0.0      | 93.178.63.255   | 16384      | 2008-03-31  | MTC KSA
 94.48.0.0/15       | 94.48.0.0       | 94.49.255.255   | 131072     | 2008-05-22  | Saudi Telecom Company JSC
 94.77.192.0/18     | 94.77.192.0     | 94.77.255.255   | 16384      | 2008-08-19  | Etihad Atheeb Telecom Company
 94.96.0.0/14       | 94.96.0.0       | 94.99.255.255   | 262144     | 2008-06-25  | Saudi Telecom Company JSC
+94.158.64.0/20     | 94.158.64.0     | 94.158.79.255   | 4096       | 2008-09-25  | 
+95.177.128.0/17    | 95.177.128.0    | 95.177.255.255  | 32768      | 2009-01-09  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 95.184.0.0/14      | 95.184.0.0      | 95.187.255.255  | 262144     | 2008-12-22  | Saudi Telecom Company JSC
 95.218.0.0/15      | 95.218.0.0      | 95.219.255.255  | 131072     | 2009-03-03  | Saudi Telecom Company JSC
+104.233.64.0/18    | 104.233.64.0    | 104.233.127.255 | 16384      | 2014-11-05  | Saudi Telecom Company JSC
 109.82.0.0/15      | 109.82.0.0      | 109.83.255.255  | 131072     | 2009-08-06  | Etihad Etisalat
 109.166.0.0/19     | 109.166.0.0     | 109.166.31.255  | 8192       | 2009-10-19  | Saudi Telecom Company JSC
 109.166.96.0/20    | 109.166.96.0    | 109.166.111.255 | 4096       | 2009-10-19  | Saudi Telecom Company JSC
@@ -109,13 +129,41 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 128.204.240.0/20   | 128.204.240.0   | 128.204.255.255 | 4096       | 2011-10-13  | Integrated Telecom Co. Ltd
 128.234.0.0/16     | 128.234.0.0     | 128.234.255.255 | 65536      | 2011-10-12  | Saudi Telecom Company JSC
 129.208.0.0/16     | 129.208.0.0     | 129.208.255.255 | 65536      | 1988-02-18  | Saudi Telecom Company JSC
+130.164.128.0/17   | 130.164.128.0   | 130.164.255.255 | 32768      | 1988-08-29  | Saudi Telecom Company JSC
+134.239.0.0/16     | 134.239.0.0     | 134.239.255.255 | 65536      | 1989-08-08  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
+139.64.0.0/17      | 139.64.0.0      | 139.64.127.255  | 32768      | 2017-09-08  | Saudi Telecom Company JSC
+141.164.128.0/17   | 141.164.128.0   | 141.164.255.255 | 32768      | 1990-07-23  | Saudi Telecom Company JSC
+141.179.0.0/16     | 141.179.0.0     | 141.179.255.255 | 65536      | 1990-07-26  | Saudi Telecom Company JSC
+142.154.0.0/17     | 142.154.0.0     | 142.154.127.255 | 32768      | 1992-07-23  | Saudi Telecom Company JSC
+142.247.0.0/16     | 142.247.0.0     | 142.247.255.255 | 65536      | 1993-09-03  | Saudi Telecom Company JSC
+143.92.128.0/17    | 143.92.128.0    | 143.92.255.255  | 32768      | 1990-09-07  | Saudi Telecom Company JSC
+144.86.0.0/17      | 144.86.0.0      | 144.86.127.255  | 32768      | 1990-11-20  | Saudi Telecom Company JSC
+145.82.0.0/16      | 145.82.0.0      | 145.82.255.255  | 65536      | 1993-09-01  | Saudi Telecom Company JSC
 146.251.0.0/16     | 146.251.0.0     | 146.251.255.255 | 65536      | 2011-07-14  | Bayanat Al-Oula For Network Services
-149.3.160.0/20     | 149.3.160.0     | 149.3.175.255   | 4096       | 2011-07-22  | Rayadah Investment Joint Stock Company
+147.82.0.0/16      | 147.82.0.0      | 147.82.255.255  | 65536      | 1991-07-16  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
+148.111.0.0/16     | 148.111.0.0     | 148.111.255.255 | 65536      | 1991-03-28  | Saudi Telecom Company JSC
+149.109.0.0/16     | 149.109.0.0     | 149.109.255.255 | 65536      | 1992-01-28  | Saudi Telecom Company JSC
+151.173.0.0/17     | 151.173.0.0     | 151.173.127.255 | 32768      | 1991-09-05  | Saudi Telecom Company JSC
+151.173.128.0/17   | 151.173.128.0   | 151.173.255.255 | 32768      | 1991-09-05  | Saudi Telecom Company JSC
 151.254.0.0/15     | 151.254.0.0     | 151.255.255.255 | 131072     | 2012-08-22  | Saudi Telecom Company JSC
+153.94.64.0/18     | 153.94.64.0     | 153.94.127.255  | 16384      | 1991-09-23  | Saudi Telecom Company JSC
+155.138.64.0/18    | 155.138.64.0    | 155.138.127.255 | 16384      | 1991-11-12  | Saudi Telecom Company JSC
 159.0.0.0/16       | 159.0.0.0       | 159.0.255.255   | 65536      | 2011-08-19  | Saudi Telecom Company JSC
+161.70.0.0/16      | 161.70.0.0      | 161.70.255.255  | 65536      | 1992-06-15  | Saudi Telecom Company JSC
+161.251.0.0/16     | 161.251.0.0     | 161.251.255.255 | 65536      | 1993-04-01  | Saudi Telecom Company JSC
+162.142.128.0/17   | 162.142.128.0   | 162.142.255.255 | 32768      | 1992-12-08  | Saudi Telecom Company JSC
 166.87.0.0/16      | 166.87.0.0      | 166.87.255.255  | 65536      | 1993-09-01  | 
+167.86.128.0/17    | 167.86.128.0    | 167.86.255.255  | 32768      | 1993-05-14  | Saudi Telecom Company JSC
+167.100.128.0/17   | 167.100.128.0   | 167.100.255.255 | 32768      | 1993-05-25  | Saudi Telecom Company JSC
 167.111.0.0/16     | 167.111.0.0     | 167.111.255.255 | 65536      | 1993-09-01  | 
+168.149.0.0/17     | 168.149.0.0     | 168.149.127.255 | 32768      | 1994-04-01  | Saudi Telecom Company JSC
+169.148.0.0/17     | 169.148.0.0     | 169.148.127.255 | 32768      | 1994-11-18  | Saudi Telecom Company JSC
+170.101.128.0/17   | 170.101.128.0   | 170.101.255.255 | 32768      | 1994-03-23  | Saudi Telecom Company JSC
+170.133.64.0/18    | 170.133.64.0    | 170.133.127.255 | 16384      | 1994-05-09  | Saudi Telecom Company JSC
+174.140.0.0/18     | 174.140.0.0     | 174.140.63.255  | 16384      | 2015-06-10  | Saudi Telecom Company JSC
+175.110.128.0/17   | 175.110.128.0   | 175.110.255.255 | 32768      | 2010-01-08  | Saudi Telecom Company JSC
 176.16.0.0/14      | 176.16.0.0      | 176.19.255.255  | 262144     | 2011-05-18  | Etihad Etisalat
+176.32.208.0/20    | 176.32.208.0    | 176.32.223.255  | 4096       | 2011-05-24  | Saudi Telecom Company JSC
 176.44.0.0/15      | 176.44.0.0      | 176.45.255.255  | 131072     | 2011-05-23  | Saudi Telecom Company JSC
 176.47.0.0/16      | 176.47.0.0      | 176.47.255.255  | 65536      | 2011-05-24  | Saudi Telecom Company JSC
 176.99.16.0/20     | 176.99.16.0     | 176.99.31.255   | 4096       | 2012-06-26  | Saudi Telecom Company JSC
@@ -124,12 +172,18 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 178.80.0.0/15      | 178.80.0.0      | 178.81.255.255  | 131072     | 2011-09-29  | Etihad Etisalat
 178.86.0.0/16      | 178.86.0.0      | 178.86.255.255  | 65536      | 2010-01-14  | Saudi Telecom Company JSC
 178.87.0.0/16      | 178.87.0.0      | 178.87.255.255  | 65536      | 2010-01-14  | Saudi Telecom Company JSC
+178.130.192.0/18   | 178.130.192.0   | 178.130.255.255 | 16384      | 2010-03-15  | Saudi Telecom Company JSC
+180.234.0.0/16     | 180.234.0.0     | 180.234.255.255 | 65536      | 2009-10-28  | Saudi Telecom Company JSC
 188.48.0.0/13      | 188.48.0.0      | 188.55.255.255  | 524288     | 2009-02-18  | Saudi Telecom Company JSC
 188.117.64.0/18    | 188.117.64.0    | 188.117.127.255 | 16384      | 2009-06-15  | Sahara Network
 188.132.0.0/17     | 188.132.0.0     | 188.132.127.255 | 32768      | 2009-04-17  | Etihad Etisalat
-188.139.0.0/17     | 188.139.0.0     | 188.139.127.255 | 32768      | 2009-05-20  | Arabcircle Internet Services for Saudi Arabia
+188.224.128.0/17   | 188.224.128.0   | 188.224.255.255 | 32768      | 2009-06-22  | Saudi Telecom Company JSC
 188.248.0.0/15     | 188.248.0.0     | 188.249.255.255 | 131072     | 2009-06-24  | Etihad Atheeb Telecom Company
+195.122.64.0/19    | 195.122.64.0    | 195.122.95.255  | 8192       | 1997-02-24  | TAQNIA SPACE CO.
 196.15.32.0/19     | 196.15.32.0     | 196.15.63.255   | 8192       | 1995-04-25  | 
+207.150.160.0/19   | 207.150.160.0   | 207.150.191.255 | 8192       | 2004-04-26  | Saudi Telecom Company JSC
+207.178.64.0/19    | 207.178.64.0    | 207.178.95.255  | 8192       | 1999-05-21  | Saudi Telecom Company JSC
+212.2.128.0/19     | 212.2.128.0     | 212.2.159.255   | 8192       | 2008-09-24  | Saudi Telecom Company JSC
 212.11.160.0/19    | 212.11.160.0    | 212.11.191.255  | 8192       | 1999-04-09  | SPSNET
 212.12.160.0/19    | 212.12.160.0    | 212.12.191.255  | 8192       | 1999-03-22  | Nour Communication Co.Ltd - Nournet
 212.24.224.0/19    | 212.24.224.0    | 212.24.255.255  | 8192       | 1999-09-22  | GulfNet KSA
@@ -137,32 +191,32 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 212.26.32.0/19     | 212.26.32.0     | 212.26.63.255   | 8192       | 1998-06-15  | King Abdul Aziz City for Science and Technology
 212.26.64.0/18     | 212.26.64.0     | 212.26.127.255  | 16384      | 1998-06-15  | King Abdul Aziz City for Science and Technology
 212.33.160.0/19    | 212.33.160.0    | 212.33.191.255  | 8192       | 1999-04-13  | Atheeb trading Co. Ltd (Saudi Internet)
-212.46.32.0/19     | 212.46.32.0     | 212.46.63.255   | 8192       | 1999-03-01  | Saudi Business Machines
+212.46.32.0/19     | 212.46.32.0     | 212.46.63.255   | 8192       | 1999-03-01  | Saudi Business Machines Ltd
 212.57.192.0/19    | 212.57.192.0    | 212.57.223.255  | 8192       | 2010-01-12  | King Saud University
-212.62.96.0/19     | 212.62.96.0     | 212.62.127.255  | 8192       | 1999-08-31  | International Computer Company
-212.70.32.0/19     | 212.70.32.0     | 212.70.63.255   | 8192       | 1999-06-04  | Jeraisy For Internet Services Co. Ltd
+212.62.96.0/19     | 212.62.96.0     | 212.62.127.255  | 8192       | 1999-08-31  | MTC KSA
+212.70.32.0/19     | 212.70.32.0     | 212.70.63.255   | 8192       | 1999-06-04  | Jeraisy Electronic services Ltd.
 212.71.32.0/19     | 212.71.32.0     | 212.71.63.255   | 8192       | 1999-06-16  | Middle East Internet Company Limited
 212.76.64.0/19     | 212.76.64.0     | 212.76.95.255   | 8192       | 1999-01-13  | Sahara Network
 212.93.160.0/19    | 212.93.160.0    | 212.93.191.255  | 8192       | 1999-07-30  | SAUDI INTERNATIONAL TELECOM & ELECTRONICS CO.
-212.93.192.0/19    | 212.93.192.0    | 212.93.223.255  | 8192       | 1999-05-18  | Arab Company For Internet & Communications Services (AwalNet)LLC
-212.100.192.0/19   | 212.100.192.0   | 212.100.223.255 | 8192       | 1999-04-28  | Arab Company For Internet & Communications Services (AwalNet)LLC
+212.93.192.0/19    | 212.93.192.0    | 212.93.223.255  | 8192       | 1999-05-18  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
+212.100.192.0/19   | 212.100.192.0   | 212.100.223.255 | 8192       | 1999-04-28  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 212.102.0.0/19     | 212.102.0.0     | 212.102.31.255  | 8192       | 1999-05-27  | Shabakah Net
 212.107.96.0/19    | 212.107.96.0    | 212.107.127.255 | 8192       | 1999-11-29  | Middle East Internet Company Limited
-212.116.192.0/19   | 212.116.192.0   | 212.116.223.255 | 8192       | 1999-04-28  | Arab Company For Internet & Communications Services (AwalNet)LLC
+212.116.192.0/19   | 212.116.192.0   | 212.116.223.255 | 8192       | 1999-04-28  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 212.118.96.0/19    | 212.118.96.0    | 212.118.127.255 | 8192       | 1999-11-17  | Middle East Internet Company Limited
 212.118.128.0/19   | 212.118.128.0   | 212.118.159.255 | 8192       | 1998-12-09  | Saudi Telecom Company JSC
 212.119.64.0/19    | 212.119.64.0    | 212.119.95.255  | 8192       | 1999-02-15  | Middle East Internet Company Limited
 212.138.0.0/16     | 212.138.0.0     | 212.138.255.255 | 65536      | 1999-01-28  | King Abdul Aziz City for Science and Technology
-212.162.128.0/19   | 212.162.128.0   | 212.162.159.255 | 8192       | 1999-07-26  | Arabic Computer System Co.
 212.215.128.0/17   | 212.215.128.0   | 212.215.255.255 | 32768      | 2007-12-11  | Saudi Telecom Company JSC
 213.136.192.0/19   | 213.136.192.0   | 213.136.223.255 | 8192       | 2000-04-11  | SUHUF Internet Services
-213.166.128.0/19   | 213.166.128.0   | 213.166.159.255 | 8192       | 2000-02-01  | Diginet
+213.166.128.0/19   | 213.166.128.0   | 213.166.159.255 | 8192       | 2000-02-01  | Integrated Telecom Co. Ltd
 213.181.160.0/19   | 213.181.160.0   | 213.181.191.255 | 8192       | 2001-08-20  | Middle East Internet Company Limited
-213.184.160.0/19   | 213.184.160.0   | 213.184.191.255 | 8192       | 2001-09-03  | Arab Company For Internet & Communications Services (AwalNet)LLC
+213.184.160.0/19   | 213.184.160.0   | 213.184.191.255 | 8192       | 2001-09-03  | ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 213.210.192.0/18   | 213.210.192.0   | 213.210.255.255 | 16384      | 2002-11-22  | Middle East Internet Company Limited
 213.230.0.0/19     | 213.230.0.0     | 213.230.31.255  | 8192       | 1999-11-01  | Sultan Bin Abdulaziz Foundation
 213.236.32.0/19    | 213.236.32.0    | 213.236.63.255  | 8192       | 2008-04-15  | Sahara Network
-217.8.64.0/20      | 217.8.64.0      | 217.8.79.255    | 4096       | 2000-08-07  | Arabcircle Internet Services for Saudi Arabia
 217.12.224.0/20    | 217.12.224.0    | 217.12.239.255  | 4096       | 2009-03-03  | Saudi Arabian Airlines
 217.145.240.0/20   | 217.145.240.0   | 217.145.255.255 | 4096       | 2004-04-15  | Applied Technologies Co.
+217.170.32.0/20    | 217.170.32.0    | 217.170.47.255  | 4096       | 2001-03-27  | Integrated Telecom Co. Ltd
+217.170.48.0/20    | 217.170.48.0    | 217.170.63.255  | 4096       | 2003-05-05  | Integrated Telecom Co. Ltd
 217.173.80.0/20    | 217.173.80.0    | 217.173.95.255  | 4096       | 2004-03-15  | BANK AL JAZIRA

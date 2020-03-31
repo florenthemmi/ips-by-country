@@ -1,4 +1,4 @@
-# Saint Vincent and the Grenadines
+# Saint Lucia
 
 CIDR               | Range start     | Range end       | Total IPs  | Assign date | Owner
 ------------------ | --------------- | --------------- | ---------- | ----------- | -----

@@ -1,9 +1,17 @@
+5.255.0.0,5.255.31.255,8192,14/09/12,Public Telecommunication Corporation
 31.31.176.0,31.31.191.255,4096,21/03/11,Public Telecommunication Corporation
 46.35.64.0,46.35.95.255,8192,13/10/10,Public Telecommunication Corporation
 78.137.64.0,78.137.95.255,8192,11/09/12,Public Telecommunication Corporation
 82.114.160.0,82.114.191.255,8192,30/12/03,Public Telecommunication Corporation
 89.189.64.0,89.189.95.255,8192,11/10/06,Public Telecommunication Corporation
+94.26.192.0,94.26.207.255,4096,11/06/08,Public Telecommunication Corporation
+94.26.208.0,94.26.223.255,4096,11/06/08,Public Telecommunication Corporation
 109.74.32.0,109.74.47.255,4096,20/10/09,Public Telecommunication Corporation
 109.200.160.0,109.200.191.255,8192,05/02/10,Public Telecommunication Corporation
+134.35.0.0,134.35.255.255,65536,24/04/89,
+176.123.16.0,176.123.31.255,4096,26/07/12,
+188.209.224.0,188.209.255.255,8192,08/05/09,Public Telecommunication Corporation
+188.240.96.0,188.240.127.255,8192,23/06/09,Public Telecommunication Corporation
 195.94.0.0,195.94.31.255,8192,15/08/96,TeleYemen
+213.246.0.0,213.246.31.255,8192,20/11/08,Public Telecommunication Corporation
 

@@ -12,14 +12,15 @@ CIDR               | Range start     | Range end       | Total IPs  | Assign dat
 78.109.224.0/20    | 78.109.224.0    | 78.109.239.255  | 4096       | 2007-07-25  | SCIS
 81.90.16.0/20      | 81.90.16.0      | 81.90.31.255    | 4096       | 2006-04-18  | TigrisNet
 81.95.80.0/20      | 81.95.80.0      | 81.95.95.255    | 4096       | 2006-05-22  | 
+82.199.208.0/20    | 82.199.208.0    | 82.199.223.255  | 4096       | 2012-09-10  | ASIACELL COMMUNICATIONS PJSC
 91.106.32.0/19     | 91.106.32.0     | 91.106.63.255   | 8192       | 2012-06-21  | Hala Al Rafidain Company for Communications and Internet LTD.
 91.108.192.0/18    | 91.108.192.0    | 91.108.255.255  | 16384      | 2012-06-15  | City Telecom Co. LTD.
-93.91.192.0/20     | 93.91.192.0     | 93.91.207.255   | 4096       | 2008-05-16  | Newroz Telecom Ltd.
-95.159.64.0/18     | 95.159.64.0     | 95.159.127.255  | 16384      | 2009-04-24  | Goran Net ISP Ltd.
-95.170.192.0/19    | 95.170.192.0    | 95.170.223.255  | 8192       | 2009-02-06  | Newroz Telecom Ltd.
-109.127.64.0/18    | 109.127.64.0    | 109.127.127.255 | 16384      | 2009-12-07  | Newroz Telecom Ltd.
+93.91.192.0/20     | 93.91.192.0     | 93.91.207.255   | 4096       | 2008-05-16  | Allay Nawroz Telecom Company for Communication/Ltd.
+95.159.64.0/18     | 95.159.64.0     | 95.159.127.255  | 16384      | 2009-04-24  | Seven Net Layers for General Trading & Information Technology LTD.
+95.170.192.0/19    | 95.170.192.0    | 95.170.223.255  | 8192       | 2009-02-06  | Allay Nawroz Telecom Company for Communication/Ltd.
+109.127.64.0/18    | 109.127.64.0    | 109.127.127.255 | 16384      | 2009-12-07  | Allay Nawroz Telecom Company for Communication/Ltd.
 109.224.0.0/18     | 109.224.0.0     | 109.224.63.255  | 16384      | 2010-03-09  | EarthLink Ltd. Communications&Internet Services
-130.193.128.0/17   | 130.193.128.0   | 130.193.255.255 | 32768      | 2011-10-26  | Newroz Telecom Ltd.
+130.193.128.0/17   | 130.193.128.0   | 130.193.255.255 | 32768      | 2011-10-26  | Allay Nawroz Telecom Company for Communication/Ltd.
 131.117.224.0/19   | 131.117.224.0   | 131.117.255.255 | 8192       | 2012-03-16  | AL SARD TRADING AGENCIES CO. LIMITED
 149.255.192.0/18   | 149.255.192.0   | 149.255.255.255 | 16384      | 2011-08-22  | EarthLink Ltd. Communications&Internet Services
 151.236.160.0/19   | 151.236.160.0   | 151.236.191.255 | 8192       | 2012-08-14  | Al Atheer Telecommunication-Iraq Co. Ltd. Incorporated in Cayman Islands

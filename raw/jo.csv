@@ -1,9 +1,7 @@
 5.45.128.0,5.45.143.255,4096,25/05/12,Umniah Lil-Hawatef Al-Mutanaqelah Co.
-31.222.224.0,31.222.255.255,8192,16/05/11,The Blue Zone East / Jordan
 37.17.192.0,37.17.207.255,4096,19/12/11,Al mouakhah lil khadamat al logesteih wa al itisalat
 37.110.160.0,37.110.191.255,8192,08/02/12,
 37.123.64.0,37.123.95.255,8192,15/02/12,Al mouakhah lil khadamat al logesteih wa al itisalat
-37.140.240.0,37.140.255.255,4096,01/03/12,The Blue Zone East / Jordan
 37.202.64.0,37.202.127.255,16384,23/03/12,Jordan Data Communications Company LLC
 37.220.112.0,37.220.127.255,4096,03/04/12,Batelco Jordan
 46.23.112.0,46.23.127.255,4096,08/12/10,Umniah Mobile Company PLC
@@ -28,7 +26,6 @@
 95.140.160.0,95.140.175.255,4096,17/03/09,
 95.141.208.0,95.141.223.255,4096,30/06/09,Al mouakhah lil khadamat al logesteih wa al itisalat
 95.172.192.0,95.172.223.255,8192,02/03/09,Umniah Mobile Company PLC
-109.107.128.0,109.107.159.255,8192,19/10/09,The Blue Zone East / Jordan
 109.107.224.0,109.107.255.255,8192,22/10/09,Umniah Mobile Company PLC
 109.237.192.0,109.237.207.255,4096,18/01/10,VTEL HOLDINGS LIMITED/JORDAN CO.
 149.200.128.0,149.200.255.255,32768,15/08/11,Jordan Data Communications Company LLC
@@ -41,7 +38,6 @@
 188.247.64.0,188.247.95.255,8192,25/08/09,Linkdotnet-Jordan
 193.188.64.0,193.188.95.255,8192,29/12/95,National Information Technology Center
 194.165.128.0,194.165.159.255,8192,01/02/96,Jordan Data Communications Company LLC
-195.158.192.0,195.158.223.255,8192,28/04/97,Middle East Communications Corporation
 212.34.0.0,212.34.31.255,8192,04/03/98,Jordan Telecommunications Company
 212.35.64.0,212.35.95.255,8192,27/07/98,FIRSTNET (First Data Communication Group)
 212.38.128.0,212.38.159.255,8192,11/05/98,
