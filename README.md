@@ -12,7 +12,8 @@ When available you can also get IPs used by a specific ISP.
 The code has been tested with Python 3 and it depends on Scrapy. It is not a necessary step: all the stuff is already committed.
 
 ```bash
-mkvirtualenv --python=$(which python3) ips-by-country
+python3 -m venv env
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
